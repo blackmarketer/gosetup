@@ -1,2 +1,2 @@
 # gosetup
-Tool to set up GO and GOPATH variables 
+Tool to set up GOLANG and GOPATH variables 
