@@ -13,6 +13,8 @@ mkdir $HOME/go
 echo "export GOPATH=$HOME/go" >> ~/.bashrc
 echo "export PATH=$PATH:$GOPATH/bin" >> ~/.bashrc
 
+source ~/.bashrc
+
 go version
 echo "go setup complete....."
 
